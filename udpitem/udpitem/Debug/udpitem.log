@@ -1,2 +1,5 @@
 ﻿  InitSocket.cpp
+  UdpServer.cpp
+  UdpSocket.cpp
+  正在生成代码...
   udpitem.vcxproj -> D:\Git\testgithub\MyFirstUDP_ITEM\udpitem\Debug\udpitem.exe
